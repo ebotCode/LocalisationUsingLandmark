@@ -2,7 +2,8 @@
 
 This Repository contains code that implements the particle filter localisation algorithm which is used in Self Driving car technology today. 
 
-Programming langauge : Python 
+Programming langauge : Python3 
+
 libraries : matplotlib, numpy
 
 Description:
